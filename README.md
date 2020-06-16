@@ -2,5 +2,5 @@
 
 
 
-Calculadora desenvolvida em javaScript.
+Calculadora JavasScript programada em POO
 
